@@ -343,9 +343,7 @@ export default function index({ cases }) {
                     <p className="text-lg">
                       CryptoForGood is an initiative to create awareness and
                       raise capital from the global crypto community towards the
-                      much needed Covid relief efforts in India. CryptoForGood
-                      will channelise funds towards{' '}
-                      <strong>PM Cares Fund</strong>
+                      much needed Covid relief efforts in India.
                     </p>
                   </div>
                 </div>
@@ -485,7 +483,7 @@ export default function index({ cases }) {
           </div>
 
           {/* Logo cloud section */}
-          <div className="bg-white">
+          {/* <div className="bg-white">
             <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
               <p className="text-center text-base font-semibold uppercase text-gray-600 tracking-wider">
                 Supported by
@@ -503,7 +501,7 @@ export default function index({ cases }) {
                 ))}
               </div>
             </div>
-          </div>
+          </div> */}
         </main>
 
         {/* Footer section */}
