@@ -450,7 +450,7 @@ export default function index({ cases }) {
                       this wallet.
                     </p>
                   </div>
-                  <div className="mt-12 sm:mx-auto sm:max-w-3xl sm:flex sm:items-end">
+                  {/* <div className="mt-12 sm:mx-auto sm:max-w-3xl sm:flex sm:items-end">
                     <div className="min-w-0 flex-1">
                       <label
                         htmlFor="cta_eth"
@@ -476,7 +476,7 @@ export default function index({ cases }) {
                         Copy
                       </button>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
